@@ -1,0 +1,9 @@
+E:\Projects\PROJECTS\Done Projects\Alien PC Information Grabber\Alien PC Information Grabber\bin\Release\Alien PC Information Grabber.exe.config
+E:\Projects\PROJECTS\Done Projects\Alien PC Information Grabber\Alien PC Information Grabber\bin\Release\Alien PC Information Grabber.exe
+E:\Projects\PROJECTS\Done Projects\Alien PC Information Grabber\Alien PC Information Grabber\bin\Release\Alien PC Information Grabber.pdb
+E:\Projects\PROJECTS\Done Projects\Alien PC Information Grabber\Alien PC Information Grabber\obj\Release\Alien PC Information Grabber.csprojAssemblyReference.cache
+E:\Projects\PROJECTS\Done Projects\Alien PC Information Grabber\Alien PC Information Grabber\obj\Release\Alien_PC_Information_Grabber.Properties.Resources.resources
+E:\Projects\PROJECTS\Done Projects\Alien PC Information Grabber\Alien PC Information Grabber\obj\Release\Alien PC Information Grabber.csproj.GenerateResource.cache
+E:\Projects\PROJECTS\Done Projects\Alien PC Information Grabber\Alien PC Information Grabber\obj\Release\Alien PC Information Grabber.csproj.CoreCompileInputs.cache
+E:\Projects\PROJECTS\Done Projects\Alien PC Information Grabber\Alien PC Information Grabber\obj\Release\Alien PC Information Grabber.exe
+E:\Projects\PROJECTS\Done Projects\Alien PC Information Grabber\Alien PC Information Grabber\obj\Release\Alien PC Information Grabber.pdb

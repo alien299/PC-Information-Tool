@@ -1,0 +1,40 @@
+C:\Users\Patrik\Desktop\Alien PC Information Grabber\Alien PC Information Grabber\bin\Debug\Alien PC Information Grabber.exe.config
+C:\Users\Patrik\Desktop\Alien PC Information Grabber\Alien PC Information Grabber\bin\Debug\Alien PC Information Grabber.exe
+C:\Users\Patrik\Desktop\Alien PC Information Grabber\Alien PC Information Grabber\bin\Debug\Alien PC Information Grabber.pdb
+C:\Users\Patrik\Desktop\Alien PC Information Grabber\Alien PC Information Grabber\obj\Debug\Alien PC Information Grabber.csprojAssemblyReference.cache
+C:\Users\Patrik\Desktop\Alien PC Information Grabber\Alien PC Information Grabber\obj\Debug\Alien PC Information Grabber.csproj.CoreCompileInputs.cache
+C:\Users\Patrik\Desktop\Alien PC Information Grabber\Alien PC Information Grabber\obj\Debug\Alien PC Information Grabber.exe
+C:\Users\Patrik\Desktop\Alien PC Information Grabber\Alien PC Information Grabber\obj\Debug\Alien PC Information Grabber.pdb
+C:\Users\Patrik\Desktop\Projects\Alien PC Information Grabber\Alien PC Information Grabber\bin\Debug\Alien PC Information Grabber.exe.config
+C:\Users\Patrik\Desktop\Projects\Alien PC Information Grabber\Alien PC Information Grabber\bin\Debug\Alien PC Information Grabber.exe
+C:\Users\Patrik\Desktop\Projects\Alien PC Information Grabber\Alien PC Information Grabber\bin\Debug\Alien PC Information Grabber.pdb
+C:\Users\Patrik\Desktop\Projects\Alien PC Information Grabber\Alien PC Information Grabber\obj\Debug\Alien PC Information Grabber.csprojAssemblyReference.cache
+C:\Users\Patrik\Desktop\Projects\Alien PC Information Grabber\Alien PC Information Grabber\obj\Debug\Alien PC Information Grabber.csproj.CoreCompileInputs.cache
+C:\Users\Patrik\Desktop\Projects\Alien PC Information Grabber\Alien PC Information Grabber\obj\Debug\Alien PC Information Grabber.exe
+C:\Users\Patrik\Desktop\Projects\Alien PC Information Grabber\Alien PC Information Grabber\obj\Debug\Alien PC Information Grabber.pdb
+C:\Users\Patrik\Desktop\Projects\Half-Done Projects\Alien PC Information Grabber\Alien PC Information Grabber\bin\Debug\Alien PC Information Grabber.exe.config
+C:\Users\Patrik\Desktop\Projects\Half-Done Projects\Alien PC Information Grabber\Alien PC Information Grabber\bin\Debug\Alien PC Information Grabber.exe
+C:\Users\Patrik\Desktop\Projects\Half-Done Projects\Alien PC Information Grabber\Alien PC Information Grabber\bin\Debug\Alien PC Information Grabber.pdb
+C:\Users\Patrik\Desktop\Projects\Half-Done Projects\Alien PC Information Grabber\Alien PC Information Grabber\obj\Debug\Alien PC Information Grabber.csprojAssemblyReference.cache
+C:\Users\Patrik\Desktop\Projects\Half-Done Projects\Alien PC Information Grabber\Alien PC Information Grabber\obj\Debug\Alien PC Information Grabber.csproj.CoreCompileInputs.cache
+C:\Users\Patrik\Desktop\Projects\Half-Done Projects\Alien PC Information Grabber\Alien PC Information Grabber\obj\Debug\Alien PC Information Grabber.exe
+C:\Users\Patrik\Desktop\Projects\Half-Done Projects\Alien PC Information Grabber\Alien PC Information Grabber\obj\Debug\Alien PC Information Grabber.pdb
+C:\Users\Patrik\Desktop\Projects\PROJECTS\Done Projects\Alien PC Information Grabber\Alien PC Information Grabber\bin\Debug\Alien PC Information Grabber.exe.config
+C:\Users\Patrik\Desktop\Projects\PROJECTS\Done Projects\Alien PC Information Grabber\Alien PC Information Grabber\bin\Debug\Alien PC Information Grabber.exe
+C:\Users\Patrik\Desktop\Projects\PROJECTS\Done Projects\Alien PC Information Grabber\Alien PC Information Grabber\bin\Debug\Alien PC Information Grabber.pdb
+C:\Users\Patrik\Desktop\Projects\PROJECTS\Done Projects\Alien PC Information Grabber\Alien PC Information Grabber\obj\Debug\Alien PC Information Grabber.csprojAssemblyReference.cache
+C:\Users\Patrik\Desktop\Projects\PROJECTS\Done Projects\Alien PC Information Grabber\Alien PC Information Grabber\obj\Debug\Alien PC Information Grabber.csproj.CoreCompileInputs.cache
+C:\Users\Patrik\Desktop\Projects\PROJECTS\Done Projects\Alien PC Information Grabber\Alien PC Information Grabber\obj\Debug\Alien PC Information Grabber.exe
+C:\Users\Patrik\Desktop\Projects\PROJECTS\Done Projects\Alien PC Information Grabber\Alien PC Information Grabber\obj\Debug\Alien PC Information Grabber.pdb
+C:\Users\Patrik\Desktop\Projects\PROJECTS\Done Projects\Alien PC Information Grabber\Alien PC Information Grabber\obj\Debug\Alien_PC_Information_Grabber.Properties.Resources.resources
+C:\Users\Patrik\Desktop\Projects\PROJECTS\Done Projects\Alien PC Information Grabber\Alien PC Information Grabber\obj\Debug\Alien PC Information Grabber.csproj.GenerateResource.cache
+E:\Projects\PROJECTS\Done Projects\Alien PC Information Grabber\Alien PC Information Grabber\obj\Debug\Alien_PC_Information_Grabber.Properties.Resources.resources
+E:\Projects\PROJECTS\Done Projects\Alien PC Information Grabber\Alien PC Information Grabber\obj\Debug\Alien PC Information Grabber.csproj.GenerateResource.cache
+E:\Projects\PROJECTS\Done Projects\Alien PC Information Grabber\Alien PC Information Grabber\obj\Debug\Alien PC Information Grabber.csproj.CoreCompileInputs.cache
+E:\Projects\PROJECTS\Done Projects\Alien PC Information Grabber\Alien PC Information Grabber\obj\Debug\Alien PC Information Grabber.csproj.AssemblyReference.cache
+E:\Projects\PROJECTS\Done Projects\Alien PC Information Grabber\Alien PC Information Grabber\obj\Debug\Alien PC Information Grabber.csproj.SuggestedBindingRedirects.cache
+E:\Projects\PROJECTS\Done Projects\Alien PC Information Grabber\Alien PC Information Grabber\bin\Debug\Alien Hardware Information Tool.exe.config
+E:\Projects\PROJECTS\Done Projects\Alien PC Information Grabber\Alien PC Information Grabber\bin\Debug\Alien Hardware Information Tool.exe
+E:\Projects\PROJECTS\Done Projects\Alien PC Information Grabber\Alien PC Information Grabber\bin\Debug\Alien Hardware Information Tool.pdb
+E:\Projects\PROJECTS\Done Projects\Alien PC Information Grabber\Alien PC Information Grabber\obj\Debug\Alien Hardware Information Tool.exe
+E:\Projects\PROJECTS\Done Projects\Alien PC Information Grabber\Alien PC Information Grabber\obj\Debug\Alien Hardware Information Tool.pdb
