@@ -14,32 +14,20 @@ namespace Alien_PC_Information_Grabber
 	{
 		static void Main(string[] args)
 		{
+			Console.Title = "Alien Hardware Information Tool";
+			Console.CursorVisible = false;
 			StartProgram();
+		}
+
+		static void StartProgram()
+		{
+			SetText();
+			GetWriteInput();
 		}
 
 		static void SetText()
         {
-			Console.Title = "Alien Hardware Information Tool";
-			Console.CursorVisible = false;
-			Console.SetWindowSize(52, 25);
-			Console.BufferWidth = 52;
-			Console.BufferHeight = 25;
-			Console.ForegroundColor = ConsoleColor.Green;
-			Console.WriteLine(@"
- _______  _       _________ _______  _       
-(  ___  )( \      \__   __/(  ____ \( (    /|
-| (   ) || (         ) (   | (    \/|  \  ( |
-| (___) || |         | |   | (__    |   \ | |
-|  ___  || |         | |   |  __)   | (\ \) |
-| (   ) || |         | |   | (      | | \   |
-| )   ( || (____/\___) (___| (____/\| )  \  |
-|/     \|(_______/\_______/(_______/|/    )_)");
-			Console.WriteLine();
-
-			Console.WriteLine("Website: https://patriknagy.hu");
-			Console.WriteLine("----------------------------------------------");
-			Console.WriteLine();
-			Console.ForegroundColor = ConsoleColor.White;
+			Title(52, 25, 52, 25);
 			Console.WriteLine("[1] ID-s");
 			Console.WriteLine("[2] Video Card (GPU) Information");
 			Console.WriteLine("[3] Processor (CPU) Information");
@@ -52,16 +40,13 @@ namespace Alien_PC_Information_Grabber
 			Console.WriteLine("[9] Exit");
 		}
 
-		static void Title(int windowX, int windowY, int bufferWidth, int bufferHeight, bool changed)
+		static void Title(int windowX, int windowY, int bufferWidth, int bufferHeight)
         {
 			Console.Clear();
 			Console.ForegroundColor = ConsoleColor.Green;
-            if (changed)
-            {
-				Console.SetWindowSize(windowX, windowY);
-				Console.BufferHeight = bufferHeight;
-				Console.BufferWidth = bufferWidth;
-			}
+			Console.SetWindowSize(windowX, windowY);
+			Console.BufferHeight = bufferHeight;
+			Console.BufferWidth = bufferWidth;
 			Console.WriteLine(@"
  _______  _       _________ _______  _       
 (  ___  )( \      \__   __/(  ____ \( (    /|
@@ -85,12 +70,6 @@ namespace Alien_PC_Information_Grabber
 			Console.ReadLine();
 			Console.Clear();
 			StartProgram();
-		}
-
-		static void StartProgram()
-		{
-			SetText();
-			GetWriteInput();
 		}
 
 		static void GetWriteInput()
@@ -141,7 +120,7 @@ namespace Alien_PC_Information_Grabber
 
 		static void IDs()
 		{
-			Title(Console.WindowWidth, Console.WindowHeight, Console.BufferWidth, Console.BufferHeight, false);
+			Title(Console.WindowWidth, Console.WindowHeight, Console.BufferWidth, Console.BufferHeight);
 
 			ManagementObjectCollection mbsList = null;
 			ManagementObjectSearcher mbs = new ManagementObjectSearcher("Select * From Win32_processor");
@@ -177,7 +156,7 @@ namespace Alien_PC_Information_Grabber
 
 		static void GPU()
 		{
-			Title(52, 40, Console.BufferWidth, 300, true);
+			Title(52, 40, Console.BufferWidth, 300);
 
 			using (var searcher = new ManagementObjectSearcher("select * from Win32_VideoController"))
 			{
@@ -350,7 +329,7 @@ namespace Alien_PC_Information_Grabber
 
 		static void CPU()
 		{
-			Title(52, 30, 52, 30, true);
+			Title(52, 30, 52, 30);
 
 			using (var searcher = new ManagementObjectSearcher("select * from Win32_Processor"))
 			{
@@ -376,7 +355,7 @@ namespace Alien_PC_Information_Grabber
 
 		static void RAM()
 		{
-			Title(52, 53, 52, 53, true);
+			Title(52, 53, 52, 53);
 
 			//ManagementObjectSearcher search = new ManagementObjectSearcher("Select * From Win32_PhysicalMemory");
 
@@ -586,7 +565,7 @@ namespace Alien_PC_Information_Grabber
 
 		static void MotherBoard()
 		{
-			Title(52, 35, 52, 35, true);
+			Title(52, 35, 52, 35);
 
 			Console.WriteLine("Motherboard Properties:");
 			Console.WriteLine("------------------------------------");
@@ -681,7 +660,7 @@ namespace Alien_PC_Information_Grabber
 
 		static void DiskAndSystem()
 		{
-			Title(52, 48, 52, 48, true);
+			Title(52, 48, 52, 48);
 			
 			StringBuilder StringBuilder1 = new StringBuilder(string.Empty);
 			try
@@ -729,7 +708,7 @@ namespace Alien_PC_Information_Grabber
 
 		static void BIOS()
 		{
-			Title(52, 32, 52, 32, true);
+			Title(52, 32, 52, 32);
 
 			ManagementObjectSearcher searcher = new ManagementObjectSearcher(@"\\.\root\cimv2", "SELECT * FROM Win32_BIOS");
 

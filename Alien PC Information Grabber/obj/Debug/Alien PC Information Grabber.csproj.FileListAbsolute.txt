@@ -38,3 +38,13 @@ E:\Projects\PROJECTS\Done Projects\Alien PC Information Grabber\Alien PC Informa
 E:\Projects\PROJECTS\Done Projects\Alien PC Information Grabber\Alien PC Information Grabber\bin\Debug\Alien Hardware Information Tool.pdb
 E:\Projects\PROJECTS\Done Projects\Alien PC Information Grabber\Alien PC Information Grabber\obj\Debug\Alien Hardware Information Tool.exe
 E:\Projects\PROJECTS\Done Projects\Alien PC Information Grabber\Alien PC Information Grabber\obj\Debug\Alien Hardware Information Tool.pdb
+G:\Github Repos\PC-Information-Tool\Alien PC Information Grabber\bin\Debug\Alien Hardware Information Tool.exe.config
+G:\Github Repos\PC-Information-Tool\Alien PC Information Grabber\bin\Debug\Alien Hardware Information Tool.exe
+G:\Github Repos\PC-Information-Tool\Alien PC Information Grabber\bin\Debug\Alien Hardware Information Tool.pdb
+G:\Github Repos\PC-Information-Tool\Alien PC Information Grabber\obj\Debug\Alien PC Information Grabber.csproj.AssemblyReference.cache
+G:\Github Repos\PC-Information-Tool\Alien PC Information Grabber\obj\Debug\Alien PC Information Grabber.csproj.SuggestedBindingRedirects.cache
+G:\Github Repos\PC-Information-Tool\Alien PC Information Grabber\obj\Debug\Alien_PC_Information_Grabber.Properties.Resources.resources
+G:\Github Repos\PC-Information-Tool\Alien PC Information Grabber\obj\Debug\Alien PC Information Grabber.csproj.GenerateResource.cache
+G:\Github Repos\PC-Information-Tool\Alien PC Information Grabber\obj\Debug\Alien PC Information Grabber.csproj.CoreCompileInputs.cache
+G:\Github Repos\PC-Information-Tool\Alien PC Information Grabber\obj\Debug\Alien Hardware Information Tool.exe
+G:\Github Repos\PC-Information-Tool\Alien PC Information Grabber\obj\Debug\Alien Hardware Information Tool.pdb
